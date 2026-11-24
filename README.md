@@ -1,4 +1,4 @@
-![ghost-ryter](README Banner@2x (1).png)
+![ghost-ryter](banner.png)
 
 <!--
 **ghost-ryter/ghost-ryter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
